@@ -24,10 +24,10 @@ time.sleep(4)
 #  clicar no formulário de e-mail:
 pyautogui.click(x=622, y=410)
 #  preenche o campo do email:
-pyautogui.write("gustavolvjardim@gotmail.com")
+pyautogui.write("xxxxxxxxxxxxxxxxxxxx")
 pyautogui.press("tab")
 #  preenche o campo de senha
-pyautogui.write("007vtcfpg")
+pyautogui.write("xxxxxxxxxxxxxx")
 pyautogui.press("tab")
 #  aperta a tecla enter para logar:
 pyautogui.press("enter")
