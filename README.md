@@ -1,4 +1,4 @@
-**Automatizando Processos de Cadastro de Produtos em Python: Uma Abordagem Prática**
+#Automatizando Processos de Cadastro de Produtos em Python: Uma Abordagem Prática**
 
 A automação de processos tem se tornado uma ferramenta indispensável para otimização e eficiência em diversas áreas, e a programação em Python vem se destacando como uma solução poderosa para esse fim. Neste contexto, apresentamos um código em Python que automatiza o processo de cadastro de produtos em um sistema empresarial, utilizando bibliotecas como pyautogui e pandas.
 
